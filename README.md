@@ -148,6 +148,12 @@ CCNA / Networking · Artificial Intelligence · Introductory Cybersecurity
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=shahd-essam27&show_icons=true&theme=midnight-purple&hide_border=true" alt="Shahd's GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahd-essam27&layout=compact&theme=midnight-purple&hide_border=true" alt="Most used languages across public repositories" />
 
+### 🔥 Commit Streak
+
+<img src="https://streak-stats.demolab.com?user=shahd-essam27&theme=midnight-purple&hide_border=true&border_radius=8" alt="Shahd Essam GitHub commit streak statistics" />
+
+<sub>The streak card updates automatically based on GitHub contribution activity.</sub>
+
 <sub>GitHub language statistics reflect public repository content, not overall proficiency.</sub>
 
 </div>
