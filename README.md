@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="assets/purple-banner.png" alt="Shahd Essam purple banner" />
+<img width="100%" src="purple-banner.png" alt="Shahd Essam purple banner" />
 
 ### Hi there, I'm Shahd! 👋 💜
 
@@ -188,6 +188,6 @@ I'm always interested in **learning opportunities, interesting engineering proje
 
 *Learning something new, one project at a time.*
 
-<img width="100%" src="assets/purple-footer.png" alt="Purple gradient footer" />
+<img width="100%" src="purple-footer.png" alt="Purple gradient footer" />
 
 </div>
