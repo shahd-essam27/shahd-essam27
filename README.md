@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24113f,45:6336a5,100:b77be8&height=210&section=header&text=Shahd%20Essam&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Communication%20%26%20Information%20Engineering%20%7C%20AI%20Explorer&descAlignY=60&descSize=17" alt="Shahd Essam purple banner" />
+<img width="100%" src="assets/purple-banner.png" alt="Shahd Essam purple banner" />
 
 ### Hi there, I'm Shahd! 👋 💜
 
@@ -188,6 +188,6 @@ I'm always interested in **learning opportunities, interesting engineering proje
 
 *Learning something new, one project at a time.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b77be8,50:6336a5,100:24113f&height=110&section=footer" alt="Purple footer wave" />
+<img width="100%" src="assets/purple-footer.png" alt="Purple gradient footer" />
 
 </div>
